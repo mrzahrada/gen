@@ -1,0 +1,7 @@
+{
+  "app": "npx ts-node bin/infra.ts",
+  "context": {
+    "name": "myservice",
+    "bucket": "wrld-test-deployment-bucket"
+  }
+}
